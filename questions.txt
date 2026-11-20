@@ -1,0 +1,10 @@
+What is the extension of a Python file?|.py
+Which keyword is used to define a function?|def
+Which data type stores True or False?|bool
+Which symbol is used for comments in Python?|#
+Which function is used to display output?|print
+Which keyword is used for loops?|for
+Which data structure stores key-value pairs?|dictionary
+Which function finds the length of a list?|len
+Which keyword is used to handle exceptions?|try
+Which operator is used for equality comparison?|==
